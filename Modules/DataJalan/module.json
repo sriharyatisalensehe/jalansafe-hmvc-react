@@ -1,0 +1,11 @@
+{
+    "name": "DataJalan",
+    "alias": "datajalan",
+    "description": "Modul Master Data Ruas Jalan",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DataJalan\\Providers\\DataJalanServiceProvider"
+    ],
+    "files": []
+}

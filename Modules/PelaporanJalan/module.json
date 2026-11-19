@@ -1,0 +1,11 @@
+{
+    "name": "PelaporanJalan",
+    "alias": "pelaporanjalan",
+    "description": "Modul Pelaporan Kerusakan Jalan AJAX",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PelaporanJalan\\Providers\\PelaporanJalanServiceProvider"
+    ],
+    "files": []
+}
